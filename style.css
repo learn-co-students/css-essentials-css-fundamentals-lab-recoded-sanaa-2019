@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+section#featured-property{
+  width: 900px;
+  margin: 20px auto;
+  text-align: center;
+}
+section#featured-property figure{
+  margin: 0;
+  padding: 0;
+}
+section#featured-property img{
+  width: 900px;
+  margin: auto;
+}
+section#featured-property figcaption{
+  font-size: 14px;
+  text-align: center;
+}
+section#featured-property p{
+  width: 800px;
+  margin: 10px auto;
+}
+nav{
+  text-align: center;
+}
+nav a{
+  padding: 0 10px;
+  background: #eee;
+}
+section#details div{
+  display: block;;
+  float: left;
+  text-align: center;
+  background: red;
+  width: 25%;
+}
