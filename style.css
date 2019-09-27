@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+text-align: center;
+}
+
+#nav-links{
+    background-color: lightgrey; padding-left: 10px; padding-right: 10px;
+}
+
+#featured-property{
+  text-align: center;
+
+}
+
+#image-caption{
+  text-align: center;
+  font-size: small;
+}
+
+#text-box{
+  padding-left:280px;
+  width: 800px;
+}
+
+#details{
+  display: inline-flex;;
+  background-color: red;
+}
+
+
+div{
+  font-size: small;
+  margin-left: 110px;
+  margin-right: 110px;
+  text-align: center;
+  width:25%
+}
